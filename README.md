@@ -8,7 +8,7 @@ Recently graduated from technical education in Systems Analysis and Development 
 
 ![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-### Batabase:
+### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 ### Tools and Technologies:
