@@ -16,6 +16,7 @@ Recently graduated from technical education in Systems Analysis and Development 
 ![HTML](https://img.shields.io/badge/HTML-E44D26?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaft&logoColor=white)&nbsp;
 
 ### IDEs:
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-A8C24F.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
