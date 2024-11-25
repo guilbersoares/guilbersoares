@@ -41,7 +41,7 @@ Recently graduated from technical education in Systems Analysis and Development 
 [HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
 
-[REACT]: https://img.shields.io/badge/html5-61DAFB?style=for-the-badge&logo=react&logoColor=white
+[REACT]: https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [REACT-url]: https://react.dev/
 
 [git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
