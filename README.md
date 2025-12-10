@@ -1,12 +1,13 @@
 ## Hi there, I'm Guilber 👋
 
-Recently graduated from technical education in Systems Analysis and Development. Technology lover and always trying to study and learn more about software.
+I have a technical degree in Software Systems Analysis and Development and currently studying Computer Engineering at a Federal University in Brazil.
 
 ## Skills:
 
 ### Languages:
 
 ![Java](https://img.shields.io/badge/Java-E11F21?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![C][C]
 
 ### Database:
 [![MYSQL][MYSQL]][MYSQL-url]
@@ -67,6 +68,9 @@ Recently graduated from technical education in Systems Analysis and Development.
 
 [VSC]: https://img.shields.io/badge/visual%20studio%20code-0078d7?style=for-the-badge&logo=mysql&logoColor=white
 [VSC-url]: https://code.visualstudio.com/
+
+[C]: https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=white
+
 
 ## Contact:
 soaresguilber@gmail.com
